@@ -1,6 +1,6 @@
 streamlit
-tensorflow==2.16.1
-keras==3.4.1
+tensorflow==2.20.0
+keras==3.5.0
 keras-vggface==0.6
 mtcnn==0.1.1
 opencv-python-headless
